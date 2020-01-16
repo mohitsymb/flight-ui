@@ -2,7 +2,7 @@
 
 ### Designing Assignment
 
-Design the UI of a flight booking web applicaton, which can be found here: https://bit.ly/35XWtZd
+Design the UI of a flight booking web applicaton, which can be found here: [https://bit.ly/35XWtZd](https://bit.ly/35XWtZd)
 
 Guidelines: 
 
