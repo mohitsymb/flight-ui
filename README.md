@@ -15,3 +15,4 @@ Design the UI of a flight booking web applicaton, which can be found here: [http
 **Submission:** 
 
 * Submission of the assignment will be done by Git. Push your code on Gitlab or Github public repository and share the URL in submission email
+* Completion of assigment is not a deal breaker, important for us is the coding practices.
